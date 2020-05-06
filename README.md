@@ -1,0 +1,2 @@
+# Leikjarforrlok
+Lokaverkefni í leikjarforritun
